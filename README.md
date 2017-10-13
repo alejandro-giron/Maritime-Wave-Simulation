@@ -1,6 +1,6 @@
 # Maritime-Wave-Simulation
 Final year project for Bachelor of Computer Science at La Trobe University
-Team I
+(Team I)
 
 ## Purpose of this project
 This software aims to provide a realistic simulation of open sea conditions, and their interactions with a ship model.
