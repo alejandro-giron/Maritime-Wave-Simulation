@@ -1,7 +1,8 @@
 # Maritime-Wave-Simulation
 Final year project for Bachelor of Computer Science at La Trobe University
+Team I
 
-## Purpose of this project. 
+## Purpose of this project
 This software aims to provide a realistic simulation of open sea conditions, and their interactions with a ship model.
 The user is able to toggle between varying types of waves and change wind speed settings as per the [Beaufort Scale](https://en.wikipedia.org/wiki/Beaufort_scale). Training beginner ship crew can be a dangerous and expensive process if done out in the real ocean. This project aims to reduce the risk and cost associated with such training by helping learners get a taste of real sea conditions from a simulated environment. 
 
@@ -59,4 +60,4 @@ project should appear in the Library, under **My Projects**. Right click "Show i
 + Kirandeep Kaur - 18373380
 
 
-Last commit: 13/10/2017 4:25 pm
+Last commit: 13/10/2017 4:34 pm
